@@ -54,6 +54,8 @@ Below are my thoughts about the OpenDataPhilly dataset, Neighborhood Food Retail
 ## Part 3: Navigating GitHub Search
 <details>
 <summary>Topic Links</summary>
+  
+  
 The two topics I chose were [metadata](https://github.com/topics/metadata) and [web archiving](https://github.com/topics/web-archiving). 
 
 One of the repositories within the metadata topic that I starred was called OpenMetadata, which looks to be some type of standardization tool for metadata. The repository contains descriptions about the features and functions included in OpenMetadata, a demo, documentation, and contributors. They have an open source code that is included as well as known issues.
